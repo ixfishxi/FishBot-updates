@@ -1,2 +1,5 @@
+2.0.1
+- Light bar stays visible under MythosOnline. 2.0.0 hid the Tk host after splash and took the cream bar with it, so the client still shrank for the strip but the bar never appeared.
+
 2.0.0
 - First FishBot 2 ship: cream Light bar under MythosOnline is the only UI. Heal, Cave, Target, Auto, Alerts, Icons, Settings, and Save open as popouts. Old Assist tabs, packet probes, and the 1.x revert path stay behind.
