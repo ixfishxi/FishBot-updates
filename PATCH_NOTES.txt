@@ -1,0 +1,2 @@
+2.0.0
+- First FishBot 2 ship: cream Light bar under MythosOnline is the only UI. Heal, Cave, Target, Auto, Alerts, Icons, Settings, and Save open as popouts. Old Assist tabs, packet probes, and the 1.x revert path stay behind.
