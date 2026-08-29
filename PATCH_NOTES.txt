@@ -1,3 +1,9 @@
+2.0.24
+- Auto Ice Fishing holds Cave Walk while enabled so the cave route no longer runs you across the map.
+- Drops stale ice jobs when the crack/hole moves outside your Scan sq radius (no long autowalk back).
+- Pick and fish always send RPC use-on-tile plus Shift+right-click; stand tile is always north of the crack.
+- Ice builder adds Pick and Rod id fields (defaults 3456 / 3483); settings flush when you toggle Ice on.
+
 2.0.23
 - Ice Fishing catch detection no longer depends on worm count alone: also checks fish loot increase and treats a closed hole after fishing as Caught.
 - Worm count includes the ammo slot (equipped worms); status shows fish loot when tracked.
