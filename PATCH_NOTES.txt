@@ -1,3 +1,7 @@
+2.0.29
+- Auto-switch tasks (Settings → Hunting Tasks) now swaps Client Build hunting tasks (pause/start), not Grizzly Adams start/cancel.
+- Grizzly Adams page stays manual Start/Cancel only; Hunting Tasks page shows your active Client Build task.
+
 2.0.28
 - Fix connect when Frida cannot resolve MythosOnline.exe by name: fall back to PID attach (pymem/find_pid still finds the client).
 - If the memory dot still shows need Admin, right-click FishBot → Run as administrator.
