@@ -1,3 +1,8 @@
+2.0.18
+- Cave → Ice Fishing toggle on the lure row: at each stand waypoint, pick and fish adjacent cracks/holes (2 sqm, two-pass scan) without enabling Auto → Ice Fishing.
+- Cave Walk no longer gets stuck on Paused #1 from ice fishing or old saved pause state; turning Walk on clears a stale pause.
+- Ice fishing holds autowalk internally instead of flipping the Cave Walk paused flag.
+
 2.0.17
 - Ice Fishing: Capture replaces the id field (no more silent duplicate 7200/7236). New Top item here button shows top/ground ids under your feet and nearby.
 
