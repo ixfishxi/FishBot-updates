@@ -1,3 +1,6 @@
+2.0.5
+- Update Client, Update Bot, and Patch Notes live in Settings → UPDATES (not Quick Action). Quick Action keeps relaunch, client open/close, EQ Helper, and Monster Database.
+
 2.0.4
 - Change Gold works again from the Auto tab — the shell UI no longer resets it from a hidden legacy row. Tabs open faster: Settings groups and the Icons catalog load in the background instead of rebuilding on every click.
 
