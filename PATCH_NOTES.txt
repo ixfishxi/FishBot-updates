@@ -1,3 +1,6 @@
+2.0.11
+- Ice Fishing: Capture is now on the rule row (no need to open the pencil editor) and a large Capture crack id button at the top of the builder.
+
 2.0.10
 - Ice Fishing only targets cracks and holes that are the top item on the tile (not buried under something else).
 - Ice Fishing builder: stand on a crack and tap Capture to learn its item id (saved in your JSON setup).
