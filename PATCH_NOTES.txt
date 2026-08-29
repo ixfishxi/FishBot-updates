@@ -1,3 +1,7 @@
+2.0.28
+- Fix connect when Frida cannot resolve MythosOnline.exe by name: fall back to PID attach (pymem/find_pid still finds the client).
+- If the memory dot still shows need Admin, right-click FishBot → Run as administrator.
+
 2.0.27
 - Cavebot Levitate waypoint: walk to a tile, face N/E/S/W, then say exani hur "up" or "down".
 - Add via Custom Action → Levitate (V2) or the Levitate tile chip (classic Cave tab).
