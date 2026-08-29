@@ -1,3 +1,7 @@
+2.0.26
+- Ice Fishing Wait slot: Drop Regular Fish no longer steals the heavy RPC slot during pick/fish (drop only when idle, release slot if drop fails).
+- Ice pick/fish should run the same tick instead of waiting behind its own drop-fish check.
+
 2.0.25
 - Cave Walk works again with Auto Ice Fishing on: 2.0.24 blocked all cave movement while Ice was enabled (Stuck N/10).
 - Auto Ice defers roaming scans when Cave → Ice Fishing is on; the cave script drives stands, Drop Regular Fish still runs.
