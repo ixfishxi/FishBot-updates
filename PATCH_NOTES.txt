@@ -1,3 +1,7 @@
+2.0.27
+- Cavebot Levitate waypoint: walk to a tile, face N/E/S/W, then say exani hur "up" or "down".
+- Add via Custom Action → Levitate (V2) or the Levitate tile chip (classic Cave tab).
+
 2.0.26
 - Ice Fishing Wait slot: Drop Regular Fish no longer steals the heavy RPC slot during pick/fish (drop only when idle, release slot if drop fails).
 - Ice pick/fish should run the same tick instead of waiting behind its own drop-fish check.
