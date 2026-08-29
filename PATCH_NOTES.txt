@@ -1,3 +1,8 @@
+2.0.19
+- Ice Fishing: pick and fish actions wait for a real RPC result (scheduled-only replies no longer count as success).
+- Ice Fishing: walks to an adjacent stand tile for any crack/hole, fishes until worm count drops, then moves on.
+- Ice Fishing: gives up on a hole after 50 fish casts and tries the next crack.
+
 2.0.18
 - Cave → Ice Fishing toggle on the lure row: at each stand waypoint, pick and fish adjacent cracks/holes (2 sqm, two-pass scan) without enabling Auto → Ice Fishing.
 - Cave Walk no longer gets stuck on Paused #1 from ice fishing or old saved pause state; turning Walk on clears a stale pause.
