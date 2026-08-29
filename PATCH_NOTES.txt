@@ -1,3 +1,6 @@
+2.0.12
+- Ice Fishing Capture is only in the config builder (pencil editor), not on the auto rule list row.
+
 2.0.11
 - Ice Fishing: Capture is now on the rule row (no need to open the pencil editor) and a large Capture crack id button at the top of the builder.
 
