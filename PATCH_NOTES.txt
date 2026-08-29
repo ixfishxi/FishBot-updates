@@ -1,3 +1,8 @@
+2.0.25
+- Cave Walk works again with Auto Ice Fishing on: 2.0.24 blocked all cave movement while Ice was enabled (Stuck N/10).
+- Auto Ice defers roaming scans when Cave → Ice Fishing is on; the cave script drives stands, Drop Regular Fish still runs.
+- Toggling Auto Ice on no longer cancels an active cave autowalk.
+
 2.0.24
 - Auto Ice Fishing holds Cave Walk while enabled so the cave route no longer runs you across the map.
 - Drops stale ice jobs when the crack/hole moves outside your Scan sq radius (no long autowalk back).
