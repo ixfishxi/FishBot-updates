@@ -1,3 +1,8 @@
+2.0.14
+- Ice Fishing: walks north of cracks/holes, Shift+right-click (then API) to pick and fish every 250 ms.
+- Finishes a hole when worm count drops (open backpack with worms visible); then scans for the next crack.
+- Config builder layout tightened for Ice Fishing.
+
 2.0.13
 - Ice Fishing walks to the tile north of a crack/hole (never stands on it) and uses the south square for pick/fish.
 - Config builder: Capture crack id and Capture hole id read the top item on the tile south of your character.
