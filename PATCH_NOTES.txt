@@ -1,3 +1,9 @@
+2.0.8
+- Auto → Auto Fishing: shift + right-click at the cursor every 1.0 s (aim at water first).
+- Auto → Ice Fishing: scans ice cracks within 6 sq, walks over, picks the hole, fishes until a catch, then ignores that tile. Pauses Cave Walk while working a hole and resumes when done. Use Add crack underfoot in the builder if Mythos tile ids differ from 7200/7236.
+- Dark skin works again — Settings → Window shows Restart / Save & Restart when you change skin.
+- Fishing rules and the rest of Assist still save in mythos_assist_ui.json next to the exe, so updating FishBot does not wipe your setup.
+
 2.0.7
 - Closing FishBot or the client should no longer hang or take the game down with it: Assist stops its tick loop, force-detaches Frida, and closes memory handles before exit. Close Client runs detach/kill on a background thread so the UI stays responsive.
 
