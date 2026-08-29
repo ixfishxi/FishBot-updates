@@ -1,3 +1,6 @@
+2.0.17
+- Ice Fishing: Capture replaces the id field (no more silent duplicate 7200/7236). New Top item here button shows top/ground ids under your feet and nearby.
+
 2.0.16
 - Ice Fishing Capture: probes south, underfoot, and neighbors; shows the result in the builder and updates ids (top item preferred, ground fallback).
 - Ice Fishing: API use-on-tile before Shift+click; scan/capture RPC aliases fixed; live status on the rule row; drop-fish no longer blocks fishing.
