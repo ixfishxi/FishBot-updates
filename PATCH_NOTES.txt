@@ -1,3 +1,6 @@
+2.0.3
+- One normal FishBot window with title bar, toolbar, and tabs in the same place — no more floating cream bar parked off-screen. Settings adds separate Grizzly Adams and Hunting Tasks pages: refresh and store your task list, see the active task, and auto-switch Grizzly tasks when you attack a listed monster. Icons catalog loads faster; Attack range defaults to 15; Close Client ends every MythosOnline instance.
+
 2.0.2
 - Drag the Light bar from any empty cream (tabs and toggles still click). Long hunts should stay lighter: Frida class lookups are cached, overlay icons only move when the client does, journals rotate instead of filling the disk, and MarketIcons.pak is mapped instead of copied into RAM.
 
