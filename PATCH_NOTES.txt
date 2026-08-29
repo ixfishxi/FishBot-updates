@@ -1,3 +1,21 @@
+2.0.23
+- Ice Fishing catch detection no longer depends on worm count alone: also checks fish loot increase and treats a closed hole after fishing as Caught.
+- Worm count includes the ammo slot (equipped worms); status shows fish loot when tracked.
+
+2.0.22
+- Auto cluster (green Auto dot) now runs Ice Fishing, Change Gold, etc. even when the main Master dot is off — Knight2-style setups no longer show a stuck Master off on ice.
+- Auto tab header only shows MASTER OFF when both main Master and that cluster are off.
+
+2.0.21
+- Auto Ice Fishing runs every tick when enabled (no longer stuck on Waiting while haste/gold/heals use the hotkey slot).
+- Ice scan radius defaults to 2 squares; Auto builder has a Scan sq field (1–15).
+- Roaming ice fishing uses two-pass tile detection (scan + direct reads) so manually opened holes within range are fished.
+
+2.0.20
+- Relaunch Bot picks the newest local FishBot_*.exe (including dist/) instead of staying on python or an older build.
+- Quick Action menu items respond on the first click (outside-dismiss no longer eats the press).
+- Cave Ice Fishing at stand waypoints works again while the cave is on hold (no more stuck Waiting with no pick/fish).
+
 2.0.19
 - Ice Fishing: pick and fish actions wait for a real RPC result (scheduled-only replies no longer count as success).
 - Ice Fishing: walks to an adjacent stand tile for any crack/hole, fishes until worm count drops, then moves on.
