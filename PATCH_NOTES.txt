@@ -1,3 +1,7 @@
+2.0.13
+- Ice Fishing walks to the tile north of a crack/hole (never stands on it) and uses the south square for pick/fish.
+- Config builder: Capture crack id and Capture hole id read the top item on the tile south of your character.
+
 2.0.12
 - Ice Fishing Capture is only in the config builder (pencil editor), not on the auto rule list row.
 
