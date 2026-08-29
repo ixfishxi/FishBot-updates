@@ -1,3 +1,6 @@
+2.0.30
+- Fix frozen exe connect when PyInstaller temp drops attack_hook.js: fall back to attack_hook.js beside the exe (build copies it into dist/).
+
 2.0.29
 - Auto-switch tasks (Settings → Hunting Tasks) now swaps Client Build hunting tasks (pause/start), not Grizzly Adams start/cancel.
 - Grizzly Adams page stays manual Start/Cancel only; Hunting Tasks page shows your active Client Build task.
