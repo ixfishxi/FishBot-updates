@@ -1,3 +1,7 @@
+2.0.10
+- Ice Fishing only targets cracks and holes that are the top item on the tile (not buried under something else).
+- Ice Fishing builder: stand on a crack and tap Capture to learn its item id (saved in your JSON setup).
+
 2.0.9
 - Ice Fishing now scans for cracks within 15 squares (was 6).
 
