@@ -1,3 +1,7 @@
+2.0.16
+- Ice Fishing Capture: probes south, underfoot, and neighbors; shows the result in the builder and updates ids (top item preferred, ground fallback).
+- Ice Fishing: API use-on-tile before Shift+click; scan/capture RPC aliases fixed; live status on the rule row; drop-fish no longer blocks fishing.
+
 2.0.15
 - Ice Fishing: optional Drop Regular Fish (id 3578) drops caught fish from open backpacks onto the ground.
 - Ice Fishing config builder: compact rows plus Drop Regular Fish checkbox (saved in JSON).
