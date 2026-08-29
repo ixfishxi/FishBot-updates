@@ -1,3 +1,7 @@
+2.0.15
+- Ice Fishing: optional Drop Regular Fish (id 3578) drops caught fish from open backpacks onto the ground.
+- Ice Fishing config builder: compact rows plus Drop Regular Fish checkbox (saved in JSON).
+
 2.0.14
 - Ice Fishing: walks north of cracks/holes, Shift+right-click (then API) to pick and fish every 250 ms.
 - Finishes a hole when worm count drops (open backpack with worms visible); then scans for the next crack.
