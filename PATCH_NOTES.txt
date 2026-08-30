@@ -1,3 +1,6 @@
+2.0.42
+- Auto Atk sq range is screen distance again: a setting of 8 targets monsters up to 8 squares away, not only those the client can walk to in 2–3 steps.
+
 2.0.41
 - Tab labels: Cave → Cavebot, Attack → Targeting.
 - Toolbar cluster toggle: Attack → Targeting.
