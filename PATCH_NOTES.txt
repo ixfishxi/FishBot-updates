@@ -1,3 +1,6 @@
+2.0.55
+- Settings → Session no longer shows “Mutating actions need the game focused” under Require Focus.
+
 2.0.54
 - Save is a name field, a list, and Save / Load / Delete. The extra columns, cave line, and Save As are gone.
 
