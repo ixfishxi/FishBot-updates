@@ -1,3 +1,6 @@
+2.0.73
+- Cavebot: > marks the start waypoint (defaults to 01). Right-click a waypoint to start there next, or jump there immediately if Walk is on.
+
 2.0.72
 - Heal: + sits on the far-right rail beside the first rule. The list starts flush under the tabs.
 
