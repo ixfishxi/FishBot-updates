@@ -1,3 +1,6 @@
+2.0.54
+- Save is a name field, a list, and Save / Load / Delete. The extra columns, cave line, and Save As are gone.
+
 2.0.53
 - Starts collapsed. The window hugs the toolbar and the open tab instead of a wide empty strip; if you stretch it wider, that width is remembered.
 
