@@ -1,3 +1,6 @@
+2.0.56
+- Settings: Auto patch fire hint is gone, Anti Idle says Turn every 10–14m, Hunting Tasks uses “N tasks · running · paused”, and Auto-switch says it changes to that target. Action buttons are the same terracotta text style.
+
 2.0.55
 - Settings → Session no longer shows “Mutating actions need the game focused” under Require Focus.
 
