@@ -1,3 +1,6 @@
+2.0.38
+- Cave tab: lure row toggle label is Follow After (was Follow after Lure).
+
 2.0.37
 - Heal Config Builder: shorter header (Config) and buttons (Save, Del).
 
