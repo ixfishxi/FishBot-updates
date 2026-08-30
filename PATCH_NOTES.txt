@@ -1,3 +1,8 @@
+2.0.35
+- Fix blank HP/MP after relaunching FishBot while MythosOnline is already logged in (skip Frida startup delay, keep vitals during cooling).
+- Reconnect (↻) no longer adds an extra attach hold on every routine memory connect.
+- Prefer attack_hook.js beside the exe when the PyInstaller temp folder is missing.
+
 2.0.34
 - Remove Cave → Ice Fishing toggle; stand-waypoint ice fishing follows Auto → Ice Fishing (on/off there).
 - Roaming ice defer while Cave Walk is on also follows Auto → Ice Fishing.
