@@ -1,3 +1,6 @@
+2.0.37
+- Heal Config Builder: shorter header (Config) and buttons (Save, Del).
+
 2.0.36
 - Only one FishBot at a time: starting a new copy closes any older FishBot.exe still running (zombie from a bad exit, older version, or double-click).
 - A mutex blocks a second live instance if the first could not be replaced.
