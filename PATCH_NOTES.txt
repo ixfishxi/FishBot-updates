@@ -1,3 +1,6 @@
+2.0.43
+- Auto Config Builder header is Config (was Config Builder).
+
 2.0.42
 - Auto Atk sq range is screen distance again: a setting of 8 targets monsters up to 8 squares away, not only those the client can walk to in 2–3 steps.
 
