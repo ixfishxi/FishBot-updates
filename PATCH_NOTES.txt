@@ -1,3 +1,6 @@
+2.0.63
+- Hunting Tasks no longer shows the total / running / paused count.
+
 2.0.62
 - Hunting Tasks: Auto-switch hint is now Hunting Task = Target.
 
