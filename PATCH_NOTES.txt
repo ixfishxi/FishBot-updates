@@ -1,3 +1,6 @@
+2.0.57
+- Alerts titles are the old descriptions: Players On Screen, PK Attacker, Monsters on screen, Low Cap, Logged Out, GM Online, and GM on Screen.
+
 2.0.56
 - Settings: Auto patch fire hint is gone, Anti Idle says Turn every 10–14m, Hunting Tasks uses “N tasks · running · paused”, and Auto-switch says it changes to that target. Action buttons are the same terracotta text style.
 
