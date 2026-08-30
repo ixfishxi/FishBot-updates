@@ -1,3 +1,6 @@
+2.0.40
+- Cave Walk and Cavebot (CBot) are one control: toggling either updates the Cave tab Walk switch, vitals CBot checkbox, and toolbar Cavebot button together.
+
 2.0.39
 - Cave Walk row: remove the trailing status text (Off, idle, etc.) on the right.
 
