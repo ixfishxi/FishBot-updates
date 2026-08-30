@@ -1,3 +1,6 @@
+2.0.60
+- Collapsing the tabs shrinks the window back to the toolbar width. A wider stretch is only kept while a tab is open.
+
 2.0.59
 - Heal: Add Rule is a + in the top right of the list, same as Auto.
 
