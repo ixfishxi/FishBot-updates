@@ -1,3 +1,6 @@
+2.0.59
+- Heal: Add Rule is a + in the top right of the list, same as Auto.
+
 2.0.58
 - Auto: Add Auto Rule is a + in the top right of the list instead of a full-width button.
 
