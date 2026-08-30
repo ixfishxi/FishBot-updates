@@ -1,3 +1,6 @@
+2.0.69
+- Heal: + sits in the config column. Open config turns it into X, which closes the builder and leaves the rule list.
+
 2.0.68
 - Settings stays at the default window width instead of stretching wider.
 
