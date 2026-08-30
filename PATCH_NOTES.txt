@@ -1,3 +1,8 @@
+2.0.33
+- Client relatch: when MythosOnline closes or restarts, FishBot drops stale Frida/memory handles and attaches to the new process instead of staying in an 8s quiet window.
+- HP/MP no longer show garbage negative values from dead client memory; invalid reads are hidden until Frida/memory sync again.
+- Reconnect (↻) and Open Client now reset the attach cooldown so a quick client restart recovers without closing FishBot.
+
 2.0.32
 - Remove bar update badge, hourly bot/client update toasts, and their Settings toggles.
 - Manual Update Client / Update Bot buttons and patch-notes-on-update are unchanged.
