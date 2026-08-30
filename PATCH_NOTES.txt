@@ -1,3 +1,6 @@
+2.0.70
+- Hunting Tasks: the toggle is Auto-Switch Hunting Tasks, with no extra hint.
+
 2.0.69
 - Heal: + sits in the config column. Open config turns it into X, which closes the builder and leaves the rule list.
 
