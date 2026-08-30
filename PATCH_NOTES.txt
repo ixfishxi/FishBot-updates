@@ -1,3 +1,6 @@
+2.0.71
+- Auto: + sits in the config column. Open config turns it into X, which closes the builder. The list starts flush under the tabs.
+
 2.0.70
 - Hunting Tasks: the toggle is Auto-Switch Hunting Tasks, with no extra hint.
 
