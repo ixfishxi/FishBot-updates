@@ -1,3 +1,6 @@
+2.0.58
+- Auto: Add Auto Rule is a + in the top right of the list instead of a full-width button.
+
 2.0.57
 - Alerts titles are the old descriptions: Players On Screen, PK Attacker, Monsters on screen, Low Cap, Logged Out, GM Online, and GM on Screen.
 
