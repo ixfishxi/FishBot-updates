@@ -1,3 +1,6 @@
+2.0.61
+- Auto and Heal: the + sits on the first list row, far right, on the Config Builder line.
+
 2.0.60
 - Collapsing the tabs shrinks the window back to the toolbar width. A wider stretch is only kept while a tab is open.
 
