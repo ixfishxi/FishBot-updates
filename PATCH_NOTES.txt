@@ -1,3 +1,7 @@
+2.0.32
+- Remove bar update badge, hourly bot/client update toasts, and their Settings toggles.
+- Manual Update Client / Update Bot buttons and patch-notes-on-update are unchanged.
+
 2.0.31
 - Remove overlay Icons feature entirely (tab, floating icons, sprite catalog, random icon assets).
 - Slim client_icons.py to item metadata only (EQ advisor still uses items.xml/OTB).
