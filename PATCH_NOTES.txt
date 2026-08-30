@@ -1,3 +1,8 @@
+2.0.31
+- Remove overlay Icons feature entirely (tab, floating icons, sprite catalog, random icon assets).
+- Slim client_icons.py to item metadata only (EQ advisor still uses items.xml/OTB).
+- Settings WINDOW no longer shows icon transparency/labels.
+
 2.0.30
 - Fix frozen exe connect when PyInstaller temp drops attack_hook.js: fall back to attack_hook.js beside the exe (build copies it into dist/).
 
