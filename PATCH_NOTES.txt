@@ -1,3 +1,6 @@
+2.0.51
+- Quick Action is gone. Open/Close client, EQ Helper, and Monster Database sit in Settings → Window. Restart Bot sits in Settings → Updates. HP/MP are on the toolbar, top right.
+
 2.0.50
 - Scripts tab is gone. It was not built yet and only showed as a crossed-out label.
 
