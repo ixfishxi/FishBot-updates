@@ -1,3 +1,6 @@
+2.0.52
+- HP/MP are gone from the window. Clicking a tab grows the window down just enough to show that tab, then stops — no leftover empty space.
+
 2.0.51
 - Quick Action is gone. Open/Close client, EQ Helper, and Monster Database sit in Settings → Window. Restart Bot sits in Settings → Updates. HP/MP are on the toolbar, top right.
 
