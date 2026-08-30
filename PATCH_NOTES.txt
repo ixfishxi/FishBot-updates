@@ -1,3 +1,6 @@
+2.0.67
+- Auto and Heal: the + sits on the first row again. Auto rules use the same on/off switch as Heal.
+
 2.0.66
 - Settings Window: Open Client / Close Client, Client Folder / Bot Folder, and EQ Helper / Monster Database each sit on their own row.
 
