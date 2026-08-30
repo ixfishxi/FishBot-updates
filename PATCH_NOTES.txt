@@ -1,3 +1,6 @@
+2.0.74
+- Cavebot: Item/Cap checks stay until the bag scan works. Low supplies jump to the label and never walk on. Skip-past and skip-stuck cannot leap over those checks.
+
 2.0.73
 - Cavebot: > marks the start waypoint (defaults to 01). Right-click a waypoint to start there next, or jump there immediately if Walk is on.
 
