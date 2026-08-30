@@ -1,3 +1,6 @@
+2.0.72
+- Heal: + sits on the far-right rail beside the first rule. The list starts flush under the tabs.
+
 2.0.71
 - Auto: + sits in the config column. Open config turns it into X, which closes the builder. The list starts flush under the tabs.
 
