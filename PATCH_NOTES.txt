@@ -1,3 +1,6 @@
+2.0.48
+- Settings: leftover boxes and On/Off labels are gone. Each sub-tab is a tight list — nav is Session / Window / Updates, and the idle Ready bar no longer sits empty.
+
 2.0.47
 - Quick Action: the chip flips ▾/▴ when the menu is open, then shows Restarting / Checking / Opening so a click always looks like it landed. The menu stays up until you pick a row or click away.
 
