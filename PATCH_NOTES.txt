@@ -1,3 +1,6 @@
+2.0.65
+- Settings: Relog is labeled Relog (Beta).
+
 2.0.64
 - Save is a third shorter. Extra setups scroll in the list.
 
