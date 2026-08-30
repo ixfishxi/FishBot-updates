@@ -1,3 +1,7 @@
+2.0.41
+- Tab labels: Cave → Cavebot, Attack → Targeting.
+- Toolbar cluster toggle: Attack → Targeting.
+
 2.0.40
 - Cave Walk and Cavebot (CBot) are one control: toggling either updates the Cave tab Walk switch, vitals CBot checkbox, and toolbar Cavebot button together.
 
