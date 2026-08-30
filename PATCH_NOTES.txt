@@ -1,3 +1,6 @@
+2.0.64
+- Save is a third shorter. Extra setups scroll in the list.
+
 2.0.63
 - Hunting Tasks no longer shows the total / running / paused count.
 
