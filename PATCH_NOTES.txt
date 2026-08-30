@@ -1,3 +1,6 @@
+2.0.53
+- Starts collapsed. The window hugs the toolbar and the open tab instead of a wide empty strip; if you stretch it wider, that width is remembered.
+
 2.0.52
 - HP/MP are gone from the window. Clicking a tab grows the window down just enough to show that tab, then stops — no leftover empty space.
 
