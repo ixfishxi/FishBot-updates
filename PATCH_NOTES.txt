@@ -1,3 +1,6 @@
+2.0.44
+- Alerts: Target and Cavebot are dropdowns (Alert Only / Pause / Disable). Trailing Off status on each row is gone.
+
 2.0.43
 - Auto Config Builder header is Config (was Config Builder).
 
