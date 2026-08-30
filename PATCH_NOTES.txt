@@ -1,3 +1,6 @@
+2.0.62
+- Hunting Tasks: Auto-switch hint is now Hunting Task = Target.
+
 2.0.61
 - Auto and Heal: the + sits on the first list row, far right, on the Config Builder line.
 
