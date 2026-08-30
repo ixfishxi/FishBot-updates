@@ -1,3 +1,6 @@
+2.0.39
+- Cave Walk row: remove the trailing status text (Off, idle, etc.) on the right.
+
 2.0.38
 - Cave tab: lure row toggle label is Follow After (was Follow after Lure).
 
