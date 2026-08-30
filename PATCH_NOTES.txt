@@ -1,3 +1,6 @@
+2.0.68
+- Settings stays at the default window width instead of stretching wider.
+
 2.0.67
 - Auto and Heal: the + sits on the first row again. Auto rules use the same on/off switch as Heal.
 
