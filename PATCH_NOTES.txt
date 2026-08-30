@@ -1,3 +1,7 @@
+2.0.36
+- Only one FishBot at a time: starting a new copy closes any older FishBot.exe still running (zombie from a bad exit, older version, or double-click).
+- A mutex blocks a second live instance if the first could not be replaced.
+
 2.0.35
 - Fix blank HP/MP after relaunching FishBot while MythosOnline is already logged in (skip Frida startup delay, keep vitals during cooling).
 - Reconnect (↻) no longer adds an extra attach hold on every routine memory connect.
