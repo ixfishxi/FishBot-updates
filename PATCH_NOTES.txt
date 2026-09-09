@@ -1,3 +1,6 @@
+2.0.91
+- Cavebot: enabling Walk while already inside the hunt now immediately locates the nearest pathable waypoint on the current floor, matching Bbot startup behavior. It no longer crawls from waypoint #3 through #9 and #19 to find the section where the character actually started.
+
 2.0.90
 - Cavebot: N/S/E/W stair waypoints now send a direct one-square step when adjacent instead of relying on A* to path onto the level-change tile. Recovery prefers the correct adjacent side and, after a second confirmed failure, advances through the next mandatory gate toward another reachable waypoint.
 
