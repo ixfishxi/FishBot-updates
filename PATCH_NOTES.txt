@@ -1,3 +1,6 @@
+2.0.78
+- Cavebot: Edit sits to the right of Delete and opens the current script in Notepad.
+
 2.0.77
 - Cavebot: GotoLabel cannot be skipped by stairs, teleports, skip-past, or skip-stuck. N/S/E/W finish on a floor change for both holes (same tile) and stairs (land a few squares away).
 
