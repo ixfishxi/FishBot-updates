@@ -1,3 +1,6 @@
+2.0.75
+- Cavebot: stairs no longer count as a teleport. N/S/E/W holes only finish when you actually drop there, so the route stays on the new floor instead of snapping to the return stairs and cycling the whole script.
+
 2.0.74
 - Cavebot: Item/Cap checks stay until the bag scan works. Low supplies jump to the label and never walk on. Skip-past and skip-stuck cannot leap over those checks.
 
