@@ -1,3 +1,6 @@
+2.0.82
+- Cavebot: if the client has no path to the current waypoint, resume at the closest same-floor stand that is actually pathable.
+
 2.0.81
 - Cavebot: when lost, score every walk waypoint on this floor at once and resume at the closest one. Item/Cap/Goto no longer steal that snap.
 
