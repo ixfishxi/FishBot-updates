@@ -1,3 +1,6 @@
+2.0.85
+- Cavebot: Custom Action Deposit Items opens a nearby town locker and moves bag items into a free depot chest, one stack at a time.
+
 2.0.84
 - Cavebot: Custom Action Buy Items sends a shop buy (item id, 0–100) while the NPC trade window is already open.
 
