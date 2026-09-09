@@ -1,3 +1,6 @@
+2.0.80
+- Cavebot: after more than 3 skipped waypoints in a row, resume at the closest walk tile on the same floor. Item/Cap/Goto still cannot be skipped.
+
 2.0.79
 - Targeting: comma-separated names in one Attack Rule (Nightmare,Nightmare Scion) use that rule for each listed monster.
 
