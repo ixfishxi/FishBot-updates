@@ -1,3 +1,6 @@
+2.0.79
+- Targeting: comma-separated names in one Attack Rule (Nightmare,Nightmare Scion) use that rule for each listed monster.
+
 2.0.78
 - Cavebot: Edit sits to the right of Delete and opens the current script in Notepad.
 
