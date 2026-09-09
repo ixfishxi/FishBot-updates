@@ -1,3 +1,6 @@
+2.0.81
+- Cavebot: when lost, score every walk waypoint on this floor at once and resume at the closest one. Item/Cap/Goto no longer steal that snap.
+
 2.0.80
 - Cavebot: after more than 3 skipped waypoints in a row, resume at the closest walk tile on the same floor. Item/Cap/Goto still cannot be skipped.
 
