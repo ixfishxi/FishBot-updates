@@ -1,3 +1,6 @@
+2.0.76
+- Cavebot: Labels are markers only — they no longer make you walk back to the tile before them, and Item/Cap checks cannot be skipped by stairs, teleports, or a failed bag scan. Low supplies still jump to the matching label and cancel the current walk.
+
 2.0.75
 - Cavebot: stairs no longer count as a teleport. N/S/E/W holes only finish when you actually drop there, so the route stays on the new floor instead of snapping to the return stairs and cycling the whole script.
 
