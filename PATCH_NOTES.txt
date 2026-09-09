@@ -1,3 +1,6 @@
+2.0.84
+- Cavebot: Custom Action Buy Items sends a shop buy (item id, 0–100) while the NPC trade window is already open.
+
 2.0.83
 - Cavebot: Skip Near is saved with the script, including 0. Reloading the route no longer snaps it back to 1.
 
