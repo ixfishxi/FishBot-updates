@@ -1,3 +1,6 @@
+2.0.90
+- Cavebot: N/S/E/W stair waypoints now send a direct one-square step when adjacent instead of relying on A* to path onto the level-change tile. Recovery prefers the correct adjacent side and, after a second confirmed failure, advances through the next mandatory gate toward another reachable waypoint.
+
 2.0.89
 - Cavebot: confirmed recovery no longer stalls when the current route segment has no second waypoint on this floor. It walks to a pathable tile beside the active waypoint and retries it without skipping the waypoint or crossing Item/Cap/Goto gates.
 
