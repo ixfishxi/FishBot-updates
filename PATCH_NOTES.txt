@@ -1,3 +1,6 @@
+2.0.86
+- Cavebot: after stairs, do not jump back to a nearby earlier waypoint (often the hunt start). Closest-tile resume only runs when you are actually stuck and no later tile on this floor remains.
+
 2.0.85
 - Cavebot: Custom Action Deposit Items opens a nearby town locker and moves bag items into a free depot chest, one stack at a time.
 
