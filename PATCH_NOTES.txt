@@ -1,3 +1,7 @@
+2.0.88
+- Cavebot: hardened the complete walk flow. Combat and map travel preserve the active waypoint, stairs advance only after a verified floor change, exact/special waypoints cannot be skipped, and closest-point recovery waits for repeated failure plus a confirmed path inside the current route segment.
+- Cavebot: queued client walks and actions now use generation tokens, so stale or merely scheduled work cannot advance the script. Combat wake resumes on the first stable tick.
+
 2.0.87
 - Cavebot: after stairs, resume the next tile on the new floor (or hunt start if that is the loop). Nearby earlier waypoints are not used while a later tile on this floor still exists.
 
